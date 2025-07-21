@@ -15,6 +15,7 @@ dependencies:
       - transformers
       - datasets
       - peft
+      - bitsandbytes
       - accelerate
       - wandb
       - vllm
