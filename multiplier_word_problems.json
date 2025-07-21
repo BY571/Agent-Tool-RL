@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Noah earns 2 times more than Olivia per week. If Olivia earns $29, how much does Noah earn?",
+    "answer": "Noah did 58."
+  },
+  {
+    "question": "Amelia harvested 4 times more apples than James. If James harvested 54 apples, how many did Amelia harvest?",
+    "answer": "Amelia did 216."
+  },
+  {
+    "question": "Ava has 3 times more followers than Ethan. If Ethan has 96 followers, how many does Ava have?",
+    "answer": "Ava has 288."
+  },
+  {
+    "question": "Mia earns 3 times more than Lucas per week. If Lucas earns $77, how much does Mia earn?",
+    "answer": "Mia did 231."
+  },
+  {
+    "question": "Amelia has 3 times more followers than James. If James has 61 followers, how many does Amelia have?",
+    "answer": "Amelia has 183."
+  },
+  {
+    "question": "Sophia harvested 5 times more apples than Jake. If Jake harvested 92 apples, how many did Sophia harvest?",
+    "answer": "Sophia did 460."
+  },
+  {
+    "question": "Alice collects 5 times more stamps than Bob. If Bob has 32 stamps, how many does Alice have?",
+    "answer": "Alice has 160."
+  },
+  {
+    "question": "Charlotte has 5 times more followers than Leo. If Leo has 66 followers, how many does Charlotte have?",
+    "answer": "Charlotte has 330."
+  },
+  {
+    "question": "Ava made 3 times more sales than Ethan. If Ethan made 66 sales, how many did Ava make?",
+    "answer": "Ava did 198."
+  },
+  {
+    "question": "Charlotte collects 3 times more stamps than Leo. If Leo has 67 stamps, how many does Charlotte have?",
+    "answer": "Charlotte has 201."
+  },
+  {
+    "question": "Sophia earns 3 times more than Jake per week. If Jake earns $84, how much does Sophia earn?",
+    "answer": "Sophia did 252."
+  },
+  {
+    "question": "Ava has 3 times more points than Ethan in a game. If Ethan has 8 points, how many does Ava have?",
+    "answer": "Ava has 24."
+  },
+  {
+    "question": "Sophia made 3 times more sales than Jake. If Jake made 89 sales, how many did Sophia make?",
+    "answer": "Sophia did 267."
+  },
+  {
+    "question": "Sophia made 5 times more sales than Jake. If Jake made 10 sales, how many did Sophia make?",
+    "answer": "Sophia did 50."
+  },
+  {
+    "question": "Noah collects 4 times more stamps than Olivia. If Olivia has 42 stamps, how many does Noah have?",
+    "answer": "Noah has 168."
+  },
+  {
+    "question": "Alice has 4 times as many books as Bob. If Bob has 15 books, how many does Alice have?",
+    "answer": "Alice has 60."
+  },
+  {
+    "question": "Harper has 4 times more points than Mason in a game. If Mason has 61 points, how many does Harper have?",
+    "answer": "Harper has 244."
+  },
+  {
+    "question": "Amelia has 3 times more votes than James. If James got 66 votes, how many did Amelia get?",
+    "answer": "Amelia has 198."
+  },
+  {
+    "question": "Amelia has 4 times more votes than James. If James got 80 votes, how many did Amelia get?",
+    "answer": "Amelia has 320."
+  },
+  {
+    "question": "Harper has 4 times as many books as Mason. If Mason has 82 books, how many does Harper have?",
+    "answer": "Harper has 328."
+  },
+  {
+    "question": "Ava made 3 times more sales than Ethan. If Ethan made 79 sales, how many did Ava make?",
+    "answer": "Ava did 237."
+  },
+  {
+    "question": "Alice has 2 times more followers than Bob. If Bob has 36 followers, how many does Alice have?",
+    "answer": "Alice has 72."
+  },
+  {
+    "question": "Isabella collects 2 times more stamps than Henry. If Henry has 52 stamps, how many does Isabella have?",
+    "answer": "Isabella has 104."
+  },
+  {
+    "question": "Noah made 5 times more sales than Olivia. If Olivia made 82 sales, how many did Noah make?",
+    "answer": "Noah did 410."
+  },
+  {
+    "question": "Isabella ran 5 times farther than Henry. If Henry ran 37 kilometers, how far did Isabella run?",
+    "answer": "Isabella did 185."
+  },
+  {
+    "question": "Amelia ran 3 times farther than James. If James ran 28 kilometers, how far did Amelia run?",
+    "answer": "Amelia did 84."
+  },
+  {
+    "question": "Noah ran 5 times farther than Olivia. If Olivia ran 20 kilometers, how far did Noah run?",
+    "answer": "Noah did 100."
+  },
+  {
+    "question": "Sophia has 3 times more followers than Jake. If Jake has 66 followers, how many does Sophia have?",
+    "answer": "Sophia has 198."
+  },
+  {
+    "question": "Mia has 3 times more votes than Lucas. If Lucas got 17 votes, how many did Mia get?",
+    "answer": "Mia has 51."
+  },
+  {
+    "question": "Harper has 2 times as many books as Mason. If Mason has 5 books, how many does Harper have?",
+    "answer": "Harper has 10."
+  },
+  {
+    "question": "Amelia has 3 times more points than James in a game. If James has 72 points, how many does Amelia have?",
+    "answer": "Amelia has 216."
+  },
+  {
+    "question": "Harper has 4 times as many books as Mason. If Mason has 35 books, how many does Harper have?",
+    "answer": "Harper has 140."
+  },
+  {
+    "question": "Harper has 3 times more followers than Mason. If Mason has 100 followers, how many does Harper have?",
+    "answer": "Harper has 300."
+  },
+  {
+    "question": "Mia has 4 times more points than Lucas in a game. If Lucas has 6 points, how many does Mia have?",
+    "answer": "Mia has 24."
+  },
+  {
+    "question": "Charlotte made 3 times more sales than Leo. If Leo made 41 sales, how many did Charlotte make?",
+    "answer": "Charlotte did 123."
+  },
+  {
+    "question": "Noah ran 3 times farther than Olivia. If Olivia ran 18 kilometers, how far did Noah run?",
+    "answer": "Noah did 54."
+  },
+  {
+    "question": "Isabella has 4 times more votes than Henry. If Henry got 80 votes, how many did Isabella get?",
+    "answer": "Isabella has 320."
+  },
+  {
+    "question": "Harper harvested 2 times more apples than Mason. If Mason harvested 42 apples, how many did Harper harvest?",
+    "answer": "Harper did 84."
+  },
+  {
+    "question": "Harper harvested 3 times more apples than Mason. If Mason harvested 57 apples, how many did Harper harvest?",
+    "answer": "Harper did 171."
+  },
+  {
+    "question": "Isabella harvested 2 times more apples than Henry. If Henry harvested 58 apples, how many did Isabella harvest?",
+    "answer": "Isabella did 116."
+  },
+  {
+    "question": "Ava has 4 times more followers than Ethan. If Ethan has 53 followers, how many does Ava have?",
+    "answer": "Ava has 212."
+  },
+  {
+    "question": "Liam collects 4 times more stamps than Emma. If Emma has 7 stamps, how many does Liam have?",
+    "answer": "Liam has 28."
+  },
+  {
+    "question": "Alice collects 3 times more stamps than Bob. If Bob has 8 stamps, how many does Alice have?",
+    "answer": "Alice has 24."
+  },
+  {
+    "question": "Noah solved 4 times more puzzles than Olivia. If Olivia solved 30, how many did Noah solve?",
+    "answer": "Noah did 120."
+  },
+  {
+    "question": "Ava solved 5 times more puzzles than Ethan. If Ethan solved 32, how many did Ava solve?",
+    "answer": "Ava did 160."
+  },
+  {
+    "question": "Charlotte has 4 times more points than Leo in a game. If Leo has 36 points, how many does Charlotte have?",
+    "answer": "Charlotte has 144."
+  },
+  {
+    "question": "Sophia has 3 times as many books as Jake. If Jake has 22 books, how many does Sophia have?",
+    "answer": "Sophia has 66."
+  },
+  {
+    "question": "Mia ran 4 times farther than Lucas. If Lucas ran 44 kilometers, how far did Mia run?",
+    "answer": "Mia did 176."
+  },
+  {
+    "question": "Harper solved 5 times more puzzles than Mason. If Mason solved 49, how many did Harper solve?",
+    "answer": "Harper did 245."
+  },
+  {
+    "question": "Isabella ran 3 times farther than Henry. If Henry ran 66 kilometers, how far did Isabella run?",
+    "answer": "Isabella did 198."
+  },
+  {
+    "question": "Ava solved 4 times more puzzles than Ethan. If Ethan solved 21, how many did Ava solve?",
+    "answer": "Ava did 84."
+  },
+  {
+    "question": "Harper has 4 times more followers than Mason. If Mason has 8 followers, how many does Harper have?",
+    "answer": "Harper has 32."
+  },
+  {
+    "question": "Noah earns 5 times more than Olivia per week. If Olivia earns $8, how much does Noah earn?",
+    "answer": "Noah did 40."
+  },
+  {
+    "question": "Sophia has 5 times more points than Jake in a game. If Jake has 89 points, how many does Sophia have?",
+    "answer": "Sophia has 445."
+  },
+  {
+    "question": "Amelia has 5 times more followers than James. If James has 95 followers, how many does Amelia have?",
+    "answer": "Amelia has 475."
+  },
+  {
+    "question": "Charlotte harvested 3 times more apples than Leo. If Leo harvested 82 apples, how many did Charlotte harvest?",
+    "answer": "Charlotte did 246."
+  },
+  {
+    "question": "Ava earns 4 times more than Ethan per week. If Ethan earns $93, how much does Ava earn?",
+    "answer": "Ava did 372."
+  },
+  {
+    "question": "Alice earns 3 times more than Bob per week. If Bob earns $66, how much does Alice earn?",
+    "answer": "Alice did 198."
+  },
+  {
+    "question": "Ava earns 3 times more than Ethan per week. If Ethan earns $44, how much does Ava earn?",
+    "answer": "Ava did 132."
+  },
+  {
+    "question": "Isabella ran 5 times farther than Henry. If Henry ran 60 kilometers, how far did Isabella run?",
+    "answer": "Isabella did 300."
+  },
+  {
+    "question": "Liam solved 2 times more puzzles than Emma. If Emma solved 72, how many did Liam solve?",
+    "answer": "Liam did 144."
+  },
+  {
+    "question": "Charlotte has 2 times more votes than Leo. If Leo got 43 votes, how many did Charlotte get?",
+    "answer": "Charlotte has 86."
+  },
+  {
+    "question": "Alice made 4 times more sales than Bob. If Bob made 26 sales, how many did Alice make?",
+    "answer": "Alice did 104."
+  },
+  {
+    "question": "Mia made 2 times more sales than Lucas. If Lucas made 75 sales, how many did Mia make?",
+    "answer": "Mia did 150."
+  },
+  {
+    "question": "Mia has 2 times more votes than Lucas. If Lucas got 7 votes, how many did Mia get?",
+    "answer": "Mia has 14."
+  },
+  {
+    "question": "Sophia earns 4 times more than Jake per week. If Jake earns $47, how much does Sophia earn?",
+    "answer": "Sophia did 188."
+  },
+  {
+    "question": "Mia made 3 times more sales than Lucas. If Lucas made 5 sales, how many did Mia make?",
+    "answer": "Mia did 15."
+  },
+  {
+    "question": "Isabella solved 4 times more puzzles than Henry. If Henry solved 25, how many did Isabella solve?",
+    "answer": "Isabella did 100."
+  },
+  {
+    "question": "Harper solved 5 times more puzzles than Mason. If Mason solved 68, how many did Harper solve?",
+    "answer": "Harper did 340."
+  },
+  {
+    "question": "Alice ran 2 times farther than Bob. If Bob ran 41 kilometers, how far did Alice run?",
+    "answer": "Alice did 82."
+  },
+  {
+    "question": "Alice earns 5 times more than Bob per week. If Bob earns $60, how much does Alice earn?",
+    "answer": "Alice did 300."
+  },
+  {
+    "question": "Alice has 5 times more votes than Bob. If Bob got 69 votes, how many did Alice get?",
+    "answer": "Alice has 345."
+  },
+  {
+    "question": "Liam ran 4 times farther than Emma. If Emma ran 8 kilometers, how far did Liam run?",
+    "answer": "Liam did 32."
+  },
+  {
+    "question": "Noah has 5 times more points than Olivia in a game. If Olivia has 17 points, how many does Noah have?",
+    "answer": "Noah has 85."
+  },
+  {
+    "question": "Sophia made 2 times more sales than Jake. If Jake made 33 sales, how many did Sophia make?",
+    "answer": "Sophia did 66."
+  },
+  {
+    "question": "Charlotte harvested 3 times more apples than Leo. If Leo harvested 53 apples, how many did Charlotte harvest?",
+    "answer": "Charlotte did 159."
+  },
+  {
+    "question": "Amelia has 5 times more followers than James. If James has 14 followers, how many does Amelia have?",
+    "answer": "Amelia has 70."
+  },
+  {
+    "question": "Harper made 2 times more sales than Mason. If Mason made 27 sales, how many did Harper make?",
+    "answer": "Harper did 54."
+  },
+  {
+    "question": "Charlotte has 5 times more followers than Leo. If Leo has 84 followers, how many does Charlotte have?",
+    "answer": "Charlotte has 420."
+  },
+  {
+    "question": "Harper collects 2 times more stamps than Mason. If Mason has 75 stamps, how many does Harper have?",
+    "answer": "Harper has 150."
+  },
+  {
+    "question": "Ava has 4 times more points than Ethan in a game. If Ethan has 97 points, how many does Ava have?",
+    "answer": "Ava has 388."
+  },
+  {
+    "question": "Amelia earns 4 times more than James per week. If James earns $37, how much does Amelia earn?",
+    "answer": "Amelia did 148."
+  },
+  {
+    "question": "Charlotte made 5 times more sales than Leo. If Leo made 83 sales, how many did Charlotte make?",
+    "answer": "Charlotte did 415."
+  },
+  {
+    "question": "Noah collects 2 times more stamps than Olivia. If Olivia has 25 stamps, how many does Noah have?",
+    "answer": "Noah has 50."
+  },
+  {
+    "question": "Charlotte has 3 times more followers than Leo. If Leo has 72 followers, how many does Charlotte have?",
+    "answer": "Charlotte has 216."
+  },
+  {
+    "question": "Charlotte has 4 times more followers than Leo. If Leo has 39 followers, how many does Charlotte have?",
+    "answer": "Charlotte has 156."
+  },
+  {
+    "question": "Ava has 2 times as many books as Ethan. If Ethan has 42 books, how many does Ava have?",
+    "answer": "Ava has 84."
+  },
+  {
+    "question": "Charlotte solved 5 times more puzzles than Leo. If Leo solved 47, how many did Charlotte solve?",
+    "answer": "Charlotte did 235."
+  },
+  {
+    "question": "Alice has 5 times more votes than Bob. If Bob got 86 votes, how many did Alice get?",
+    "answer": "Alice has 430."
+  },
+  {
+    "question": "Ava harvested 5 times more apples than Ethan. If Ethan harvested 8 apples, how many did Ava harvest?",
+    "answer": "Ava did 40."
+  },
+  {
+    "question": "Mia solved 3 times more puzzles than Lucas. If Lucas solved 52, how many did Mia solve?",
+    "answer": "Mia did 156."
+  },
+  {
+    "question": "Alice harvested 4 times more apples than Bob. If Bob harvested 51 apples, how many did Alice harvest?",
+    "answer": "Alice did 204."
+  },
+  {
+    "question": "Sophia collects 2 times more stamps than Jake. If Jake has 67 stamps, how many does Sophia have?",
+    "answer": "Sophia has 134."
+  },
+  {
+    "question": "Mia earns 4 times more than Lucas per week. If Lucas earns $72, how much does Mia earn?",
+    "answer": "Mia did 288."
+  },
+  {
+    "question": "Charlotte has 4 times more votes than Leo. If Leo got 73 votes, how many did Charlotte get?",
+    "answer": "Charlotte has 292."
+  },
+  {
+    "question": "Ava ran 4 times farther than Ethan. If Ethan ran 27 kilometers, how far did Ava run?",
+    "answer": "Ava did 108."
+  },
+  {
+    "question": "Charlotte has 4 times more followers than Leo. If Leo has 31 followers, how many does Charlotte have?",
+    "answer": "Charlotte has 124."
+  },
+  {
+    "question": "Amelia harvested 3 times more apples than James. If James harvested 38 apples, how many did Amelia harvest?",
+    "answer": "Amelia did 114."
+  },
+  {
+    "question": "Mia has 3 times more votes than Lucas. If Lucas got 74 votes, how many did Mia get?",
+    "answer": "Mia has 222."
+  },
+  {
+    "question": "Charlotte solved 4 times more puzzles than Leo. If Leo solved 95, how many did Charlotte solve?",
+    "answer": "Charlotte did 380."
+  }
+]
