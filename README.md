@@ -12,13 +12,22 @@ conda activate art
 
 ## Baseline
 
-| Model                          | Dataset | Accuracy (2 seeds)| Tools |
+| Model                          | Dataset | Accuracy (3 seeds)| Tools |
 | :----------------------------- | :------ | :------- | :---- |
-| Qwen2.5-3B-Instruct-bnb-4bit | math    |  ~ 94%      | none  |
-| Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit | math    |  ~ 80%      | none  |
-| Qwen2.5-0.5B-Instruct-bnb-4bit | math    |  ~ 68%      | none  |
+| Qwen2.5-3B-Instruct-bnb-4bit | math    |  90%, 94%, 91%      | none  |
+| Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit | math    |  46%, 60%, 58%       | none  |
+| Qwen2.5-0.5B-Instruct-bnb-4bit | math    |  12%, 12%, 15%      | none  |
 
 
+## Tool
+
+| Model                          | Dataset | Accuracy (3 seeds)| Tools |
+| :----------------------------- | :------ | :------- | :---- |
+| Qwen2.5-3B-Instruct-bnb-4bit | math    |  97%, 91%, 94%      | yes |
+| Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit | math    |  38%, 41%, 41%      | yes |
+| Qwen2.5-0.5B-Instruct-bnb-4bit | math    |  4%, 12%, 12%      | yes |
+
+## Tool + RL
 
 ### TODO:
 - [X] Setup environment  
