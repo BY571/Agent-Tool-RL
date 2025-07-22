@@ -1,4 +1,7 @@
-# ART-Agentic-Reasoning-Tools
+# Simple Agent + Tool + RL Example
+
+This repository explores the use of tools and reinforcement learning in an agent to solve math problems.
+Its main purpose is in understanding how to train a SLM to use tools with RL.  
 
 ## Setup
 
@@ -6,6 +9,13 @@
 conda env create -f environment.yml
 conda activate art
 ```
+
+## Scripts
+
+- **simple_eval.py:** Simple evaluation script to test baseline agent  without tools.
+- **simple_eval_tool.py:** Simple evaluation script to test agent with tools.
+- **simple_train.py:** Simple training script to train agent with tools.
+
 
 
 # Eval results 
