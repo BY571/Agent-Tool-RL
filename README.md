@@ -35,7 +35,3 @@ conda activate art
 | Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit | math    |  100%, 100%, 100%      | yes |
 | Qwen2.5-0.5B-Instruct-bnb-4bit | math    |  100%, 100%, 95%      | yes |
 
-### TODO:
-- [X] Setup environment  
-- [X] Setup eval script to test baseline agent and how to use tools with prompts
-- [ ] 
