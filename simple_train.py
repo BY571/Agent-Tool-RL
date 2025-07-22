@@ -10,16 +10,16 @@ import torch.nn.functional as F
 
 
 # Load model with LoRA adapter using Unsloth
-#model_name = "unsloth/Qwen2.5-3B-Instruct-bnb-4bit"
+model_name = "unsloth/Qwen2.5-3B-Instruct-bnb-4bit"
 #model_name = "unsloth/Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit"
-model_name = "unsloth/Qwen2.5-0.5B-Instruct-bnb-4bit"
+#model_name = "unsloth/Qwen2.5-0.5B-Instruct-bnb-4bit"
 lora_rank = 16
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name = model_name,
     load_in_4bit = False, # False for LoRA 16bit
     fast_inference = True, # Enable vLLM fast inference
     max_lora_rank = lora_rank,
-    gpu_memory_utilization = 0.7, # Reduce if out of memory
+    gpu_memory_utilization = 0.4, # Reduce if out of memory 0.5B: 0.7
 )
 
 model = FastLanguageModel.get_peft_model(
@@ -39,7 +39,7 @@ FastLanguageModel.for_training(model)
 optimizer = torch.optim.AdamW(model.parameters(), lr=1e-4)
 
 # Hyperparameters
-num_epochs = 300
+num_epochs = 3
 update_every_n = 10
 gradient_accumulation_steps = update_every_n
 
@@ -168,6 +168,8 @@ for epoch in range(num_epochs):
         if pred == "NONE":
             reward = -0.1
         total += 1
+        if tool_call is not None:
+            reward += 0.25
         rewards.append(reward)
 
         # Combine log probabilities (first and second generations)
