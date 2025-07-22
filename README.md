@@ -45,3 +45,5 @@ conda activate art
 | Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit | math    |  100%, 100%, 100%      | yes |
 | Qwen2.5-0.5B-Instruct-bnb-4bit | math    |  100%, 100%, 95%      | yes |
 
+Training curves of the 0.5B and 1.5B models. 3B model solves all tasks within the first epoch.
+![trainig_curve](graph.png)
