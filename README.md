@@ -1,7 +1,14 @@
 # Simple Agent + Tool + RL Example
 
 This repository explores the use of tools and reinforcement learning in an agent to solve math problems.
-Its main purpose is in understanding how to train a SLM to use tools with RL.  
+Its main purpose is to understand how to train an SLM to use tools with RL.
+
+Therefore, we created a synthetic [dataset](https://huggingface.co/datasets/Sebasdi/art_math_test) of textual math questions and compared how the instruction models perform without any option to use a calculator tool. The **Baseline** table shows the results. The 3B model can solve almost all math problems, while the 1.5B and 0.5B models struggle. 
+
+In the **Tool** table, we provide the performance of the untrained model given access to a calculator tool. The 3B model can follow the instructions to use a tool well and slightly improves its overall performance compared to the baseline. However, the 1.5B and 0.5B models fail to utilize the tool reliably, and as such, they drop even further in performance. 
+
+In the table **Tool + RL**, you can see the performance of all models after being trained to solve the math task with the calculator tool available. All models solve the questions almost always with 100%.
+
 
 ## Setup
 
