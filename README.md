@@ -9,6 +9,18 @@ In the **Tool** table, we provide the performance of the untrained model given a
 
 In the table **Tool + RL**, you can see the performance of all models after being trained to solve the math task with the calculator tool available. All models solve the questions almost always with 100%.
 
+#### Example output of the trained 0.5B model:
+
+```
+Correct Solution: Ava did 237.
+Model output:
+Tool call detected: (79 * 3)
+Tool result: 237
+Model Generated Output: <answer>237</answer>
+Extracted answer: 237
+```
+
+
 
 ## Setup
 
